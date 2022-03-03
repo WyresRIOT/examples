@@ -25,3 +25,4 @@ Examples for demonstrating the Wyres boards with RIOT
 * [ ] Marmot Trap
 * [ ] Weather Station
 * [ ] Water Level (under water pressure sensor)
+* [ ] Birdhouse 
