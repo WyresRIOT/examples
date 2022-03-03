@@ -16,5 +16,6 @@ Examples for demonstrating the Wyres boards with RIOT
 
 ## Communication
 
-* [ ] Driver LoRa SX1272 https://github.com/RIOT-OS/RIOT/tree/master/tests/driver_sx127x
-* [ ] Package LoRaMAC https://github.com/RIOT-OS/RIOT/tree/master/tests/pkg_semtech-loramac
+* [ ] [Driver LoRa SX1272](https://github.com/RIOT-OS/RIOT/tree/master/tests/driver_sx127x)
+* [ ] [Driver LoRa SX1261 (WBASE for v3 revA/B)](https://github.com/RIOT-OS/RIOT/tree/master/tests/driver_sx126x)
+* [ ] [Package LoRaMAC](https://github.com/RIOT-OS/RIOT/tree/master/tests/pkg_semtech-loramac)
